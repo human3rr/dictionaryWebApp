@@ -1,0 +1,10 @@
+.wordAndDefinitionContainer{
+    /*border: 1px black solid;*/
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.MainContainer{
+    width: 100%;
+    /*border: 1px black solid;*/
+}
